@@ -2,8 +2,17 @@
   <img src="https://github.com/Ratul-byte/Ratul-byte/blob/8f00903102ff2427a36db8ff79e791040c5c3cfd/3AyY.gif" alt="Banner" width="700"/>
 </div>
 
-<h1 align="center">Hi there 👋, I'm Ilham Maulana</h1>
-<h3 align="center">A Passionate Web Developer & DevOps Enthusiast 🚀</h3>
+<h1 align="center"><samp>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> , I'm <a href="https://hamdiv.me" target="_blank">Ilham Maulana</a> </samp> </h1>
+
+<!-- <h3 align="center">A Passionate Web Developer & DevOps Enthusiast 🚀</h3> -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0078FF&center=true&vCenter=true&repeat=true&width=500&lines=Web+Developer;DevOps+Enthusiast;Lifelong+Learner"
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
 
 <p align="center">
   I love building modern, fast, and scalable web applications.<br>
@@ -23,9 +32,22 @@
 ---
 
 ###
-## 🔧 Skills & Tools
+
+## 🔧 Skills & Tools 
 
 <div align="center">
+
+<!-- Frontend & Languages -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,express,go,python" />
+
+<!-- DevOps & Cloud -->
+<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,ansible,terraform,azure" />
+
+</div>
+
+## 🔧 Skills & Tools
+
+<!-- <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -60,7 +82,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   
-</div>
+</div> -->
 
 ## 📈 GitHub Stats
 <div align="center">
