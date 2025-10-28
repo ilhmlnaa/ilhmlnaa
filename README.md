@@ -1,12 +1,26 @@
 <div align="center">
-<img src="https://github.com/Ratul-byte/Ratul-byte/blob/8f00903102ff2427a36db8ff79e791040c5c3cfd/3AyY.gif" alt="3AyY.gif" width="670"/>
+  <img src="https://github.com/Ratul-byte/Ratul-byte/blob/8f00903102ff2427a36db8ff79e791040c5c3cfd/3AyY.gif" alt="Banner" width="700"/>
 </div>
 
+<h1 align="center">Hi there 👋, I'm Ilham Maulana</h1>
+<h3 align="center">A Passionate Web Developer & DevOps Enthusiast 🚀</h3>
 
+<p align="center">
+  I love building modern, fast, and scalable web applications.<br>
+  Currently exploring <strong>cloud infrastructure, CI/CD automation, and modern frontend frameworks</strong>.
+</p>
 
-###
+---
 
-<p align="left"></p>
+## 🧠 About Me
+- 💻 I enjoy creating clean and functional websites using **React**, **Next.js**, and **Node.js**.  
+- ⚙️ I’m diving deeper into **DevOps** — learning tools like **Docker**, **Kubernetes**, and **Ansible**.  
+- 🌱 Currently improving my **system design** and **infrastructure-as-code** skills.  
+- 🎯 Goal: To become a **Fullstack Developer with strong DevOps skills**.  
+- 💬 Ask me about **Web Development**, **Automation**, or **Cloud Infrastructure**.  
+- 📫 Reach me at: **ilham@hamdiv.me**
+
+---
 
 ###
 ## 🔧 Skills & Tools
