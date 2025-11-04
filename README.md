@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Ratul-byte/Ratul-byte/blob/8f00903102ff2427a36db8ff79e791040c5c3cfd/3AyY.gif" alt="Banner" width="700"/>
+  <img src="https://github.com/ilhmlnaa/ilhmlnaa/blob/main/assets/typing.gif" alt="Banner" width="700"/>
 </div>
 
 <h1 align="center"><samp>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> , I'm <a href="https://hamdiv.me" target="_blank">Ilham Maulana</a> </samp> </h1>
